@@ -1,6 +1,6 @@
 # Session 1 -- Assignment 1
 ## Accessing Pig (Grunt)
-![Pig](pig.jpg)
+![Pig](grunt.jpg)
 ## Accessing Hive
 ![Hive](hive.jpg)
 ## View relevant java processes
